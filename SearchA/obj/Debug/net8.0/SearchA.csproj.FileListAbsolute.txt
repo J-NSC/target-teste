@@ -1,0 +1,14 @@
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\bin\Debug\net8.0\SearchA.exe
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\bin\Debug\net8.0\SearchA.deps.json
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\bin\Debug\net8.0\SearchA.runtimeconfig.json
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\bin\Debug\net8.0\SearchA.dll
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\bin\Debug\net8.0\SearchA.pdb
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\obj\Debug\net8.0\SearchA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\obj\Debug\net8.0\SearchA.AssemblyInfoInputs.cache
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\obj\Debug\net8.0\SearchA.AssemblyInfo.cs
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\obj\Debug\net8.0\SearchA.csproj.CoreCompileInputs.cache
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\obj\Debug\net8.0\SearchA.dll
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\obj\Debug\net8.0\refint\SearchA.dll
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\obj\Debug\net8.0\SearchA.pdb
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\obj\Debug\net8.0\SearchA.genruntimeconfig.cache
+C:\Users\jncos\RiderProjects\ConsoleApp1\SearchA\obj\Debug\net8.0\ref\SearchA.dll
